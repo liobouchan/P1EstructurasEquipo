@@ -45,5 +45,5 @@ int main(void){
 //Imprimimos lo convertidos
   printf("Tu texto convertido: %s\n",string);
 
-  getch();
+  //getch();
 }
